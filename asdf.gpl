@@ -1,0 +1,4 @@
+	# 5by3.gpl
+	#
+	set style data lines
+	plot 'obj.gpl'
